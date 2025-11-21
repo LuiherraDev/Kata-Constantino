@@ -61,6 +61,7 @@ function imprimeLabel(respuesta) {
 
 function imprimeInput(respuesta) {
   // Put your code here
+  
 }
 
 document.getElementById("contenedorPreguntas").innerHTML = imprimePregunta(pregunta);
